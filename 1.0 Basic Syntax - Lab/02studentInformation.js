@@ -1,0 +1,5 @@
+function information (name, age, grade){
+    console.log(`Name: ${name}, Age: ${age}, Grade: ${grade.toFixed(2)}`);
+} 
+information("John", 15, 6.00); 
+//100 / 100 
