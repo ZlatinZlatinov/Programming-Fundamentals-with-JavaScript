@@ -44,4 +44,5 @@ Note: You should reduce the prices in that EXACT order.
 08. Multiplication Table: 
  - You will receive a number as a parameter. Print the 10 times table for this number. 
  
-- The other ones are bonus exercises.
+- The other ones are bonus exercises. 
+Credits: SoftUni :)
