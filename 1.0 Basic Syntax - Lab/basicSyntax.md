@@ -30,4 +30,6 @@
 - Finding the lines of code that cause the error 
 - Fixing the error in the code 
 - Testing to check if the error is gone and no 
-new errors are introduced to the code
+new errors are introduced  
+
+#### Credits: SoftUni :)
