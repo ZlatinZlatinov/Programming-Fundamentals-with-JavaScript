@@ -1,1 +1,26 @@
-somethibg
+Problems: 
+
+ 01. Sum Digits:
+- Write a function, which will be given a single number. Your task is to find the sum of its digits. 
+
+ 02. Chars to String: 
+- Write a function, which receives 3 parameters. Each parameter is a single character. Combine all the characters into one string and print it on the console. 
+ 
+ 03. Town Info: 
+- You will be given 3 parameters. The first parameter will be the name of the town (string), the second – the population (number), and the third the area (number). 
+
+ 04. Convert Metes to Kilometers: 
+- You will be given a number that will be the distance in meters. Write a program that converts meters to kilometers formatted to the second decimal point. 
+
+ 05. Pounds to Dollars: 
+- Write a function that converts British pounds to dollars formatted to the 3rd decimal point. 
+
+ 06. Reversed Charactes: 
+- Write a program that takes 3 parameters (characters) and prints them in reversed order with a space between them. 
+
+ 07. Lower or Upper: 
+- Write a function that prints whether a given character is upper-case or lower-case. 
+
+The other tasks are bonus. 
+
+Credits: Softuni :)
