@@ -1,1 +1,40 @@
-Here are the tasks for every problem:
+Here are the tasks for every problem: 
+
+ 01. Add and Subtract: 
+- Write a function, which changes the value of odd and even numbers in an array of numbers. 
+- If the number is even - add to its value its index position 
+- If the number is odd - subtract to its value its index position 
+
+ 02. Common Elements: 
+- Write a function, which prints common elements in two string arrays. Print all matches on separate lines. 
+- Compare the first array with the second array. 
+
+ 03. Merge Arrays: 
+- Write a function, which receives two strings and merges them into a third array. 
+- If the index of the element is even, add into the third array the sum of both elements at that index 
+- If the index of the element is odd, add the concatenation of both elements at that index 
+
+ 04. Array Rotation: 
+- Write a function that receives an array and the number of rotations you have to perform. 
+
+ 05. Max Number: 
+- Write a function to find all the top integers in an array. 
+- A top integer is an integer, which is bigger than all the elements to its right. 
+
+ 06. Equal Sums: 
+- Write a function that determines if there exists an element in the array of numbers such that the sum of the elements on its left is equal to the sum of the elements on its right.  
+- If there are NO elements to the left/right, their sum is 0. 
+- Print the index that satisfies the required condition or "no" if there is no such index. 
+
+ 07. Max Sequence of equal elements: 
+- Write a function that finds the longest sequence of equal elements in an array of numbers. 
+- If several longest sequences exist, print the leftmost one. 
+
+ 08. Magic Sum: 
+- Write a function, which prints all unique pairs in an array of integers whose sum is equal to a given number. 
+
+The rest are bonus. 
+
+
+
+Credits: SoftUni :)
