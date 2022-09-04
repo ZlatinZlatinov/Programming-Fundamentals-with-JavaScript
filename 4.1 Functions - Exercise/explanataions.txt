@@ -1,1 +1,37 @@
-Some tasks here...
+01. Smallest Of Three Numbers: 
+
+ - The functions recieves 3 numbers as arguments and it has to find the smallest one. 
+The method that I used was to put the 3 numbers in to and array, declare a variable 'min' that is eaqual to Max safe integer, 
+After that I made a simple for loop, that takes every num of the array and checks if the number is smaller than the variable 
+'min' and if it is, 'min' now equals to that num. After the loop end I log the 'min' number in the console. Later I have realised that there are Math.max and Math.min built-in functions. 
+
+02. Add and Subtract:
+ -  The function recieves 3 numbers as arguments. The task is to make a arrow function to sum the first two numbers and from it to subtract the third number. 
+ 
+03. Characters in range: 
+ - The function recieves two characters and prints on a single line all the characters in between them according to the ASCII code. But the second character's ASCII code might be before the first one. 
+ So I decalred variable 'start' which is equal to the ascii code of the 1st char and variable 'end' equals to the ascii code of the second char and a third variable 'printLine' as an empty string. I check if start is smaller than end and if it is, inside the if statement I made simple for-loop, starting with 'start' and ending with 'end' numbers. And I add to printline the characters bettween the range of start and end. There is also a second if statement where I check if start is bigger than end and I do the same thig with the for looop (startind from 'end' number ending at 'start' num).
+
+04. Odd and Even Sum: 
+ - The function receives a single number. I have to write a function, that returns the sum of all even and all odd digits from that number. So I convert the input number to string, daclare two varibles 'oddSum', 'evenSum' to equal to 0; Then I use for-of loop and I check if the nummeric value of every string character is odd or even and I add them to their sums. At the end I log 
+ the rquired output on the console, I guess I could use return also. 
+ 
+05. Palindrome integers: 
+(A palindrome is a number, which reads the same backward as forward). - The function receives an array as argument. I use for-of loop to check every element of the array. Then i convert every element to string, then simple for loop to make the same element but reversed. And after that i compare the element with the reversed one and if the are equal I log 'true' on the console and if not I log 'false'. 
+
+06. Password Validator: 
+ - Write a function that checks if a given password is valid. Password validations are:
+    •	The length should be 6 - 10 characters (inclusive)
+    •	It should consist only of letters and digits
+    •	It should have at least 2 digits  
+    The function recieves a sible string and I check if it meets the current requirements. 
+    
+07. NxN Matrix: 
+ - The function receives a single number and I have to make a matrix, having rows and collumns count, equal to that number. 
+ So I make a simple for loop, starting with 0 and less than received number, inside i crate an empti array (using let) and inside another for loop with the same values and inside that array I push the number, after the inner for-loop ends I log array on the console, joined by an empty space. 
+ 
+ 08. Perfect Number: 
+  - Write a function that receives a number and checks if that number is perfect or NOT.
+A perfect number is a positive integer that is equal to the sum of its proper positive divisors. That is the sum of its positive divisors excluding the number itself (also known as its aliquot sum). 
+... I think thats fine for now. 
+
