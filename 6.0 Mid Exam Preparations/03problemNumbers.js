@@ -17,4 +17,4 @@ problemNumbers('10 20 30 40 50');
 problemNumbers('5 2 3 4 -10 30 40 50 20 50 60 60 51');
 problemNumbers('-1 -2 -3 -4 -5 -6');
 problemNumbers('1');
-// eeemi 100/100 6toto juj e mazen HOI
+//100/100 
