@@ -44,4 +44,3 @@ function dungeonnestDark(randomInput) {
     console.log(`Health: ${initialHealth}`);
 } // 100/100 amaa da.. e sq raboti ve4e ma kuf e toz while wtf
 dungeonnestDark("rat 10|bat 20|potion 10|rat 10|chest 100|boss 70|chest 1000")
-/// mii da kajem 4e do nqkude ba`4ka ama juj ne priznava tuk.split
