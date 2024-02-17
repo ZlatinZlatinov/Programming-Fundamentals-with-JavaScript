@@ -21,7 +21,7 @@ function addAndSubstract(arri) {
     console.log(newSum);
 }
 addAndSubstract([5, 15, 23, 56, 35]); 
-// 100/100 mursen judge xdd
+// 100/100
 
 function test() {
     let firstArray = [1, 2, 3, 4, 5];
