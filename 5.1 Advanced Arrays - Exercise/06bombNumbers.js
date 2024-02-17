@@ -40,4 +40,3 @@ function test(masiv, hoi) {
     console.log(sum);
 }
 //test([1, 2, 3, 4, 5, 6]) 
-// deeba toz juj smotan 100/100 dava na tva
